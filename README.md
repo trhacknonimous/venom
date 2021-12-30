@@ -1,4 +1,8 @@
 <p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=trhacknonimous&count_private=true&show_icons=true" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=trhacknonimous&show_icons=true&locale=en&layout=compact" align = "center"/>
+</p>
+<p align="center">
   <a href="https://github.com/trhacknonimous//github-readme-stats">
     <img
       align="center"
@@ -14,7 +18,7 @@
 ![licence](https://img.shields.io/badge/license-GPLv3-brightgreen.svg)
 ![lastupdated](https://img.shields.io/aur/last-modified/venom)
 ![languages](https://img.shields.io/github/languages/count/r00t-3xp10it/venom)
-![Open issues](https://img.shields.io/github/issues/r00t-3xp10it/venom?color=red&label=open%20issues)
+![Open issues](https://img.shields.io/github/issues/trhacknonimous/venom?color=red&label=open%20issues)
 
 
 
